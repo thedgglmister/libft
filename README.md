@@ -3,7 +3,7 @@ The 1st Project of the 42us curriculum
 
 ### --Project Summary--
 
-    • Recreation of basic C library functions
+    • Recreation of basic C library functions for use in all future 42 projects
     • Includes get_next_line and ft_printf
 
 Allowed functions: ```open, read, write, close, malloc, free, exit```.
