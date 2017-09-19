@@ -1,5 +1,5 @@
 # libft
-The 1st Project of the 42us curriculum
+The 1st Project of the 42 Silicon Valley curriculum
 
 ### --Project Summary--
 
@@ -18,4 +18,4 @@ All functions are written in C and are in accordance with "The Norm".
     • One single variable declaration per line; cannot stick declaration and initialisation on the same line
     • No more than 5 variables per bloc
     • No more than 4 parameters per function
-    • Forbidden functions are: [for] [do ... while] [switch] [case] [goto]
+    • Forbidden keywords are: [for] [do ... while] [switch] [case] [goto]
